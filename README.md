@@ -25,7 +25,7 @@ https://github.com/anuraghazra/github-readme-stats
 ![Git](https://img.shields.io/badge/git-%23F44336.svg?style=plastic&logo=Git&logoColor=white&color=F05032)
 ![GitHub](https://img.shields.io/badge/github-%23F44336.svg?style=plastic&logo=GitHub&logoColor=white&color=181717)
 ![Visual Studio Code](https://img.shields.io/badge/VSC-%23F44336.svg?style=plastic&logo=Visual%20Studio%20Code&logoColor=white&color=007ACC)
-![Chrome](https://img.shields.io/badge/chrome-%23F44336.svg?style=plastic&logo=Google%20Chrome&logoColor=white&color=4285F4)
+(https://img.shields.io/badge/chrome-%23F44336.svg?style=plastic&logo=Google%20Chrome&logoColor=white&color=4285F4)
 
 <a href="https://github.com/samuelhogg/samuelhogg/">
   <img align="center" src="https://img.shields.io/badge/html-%23E34F26.svg?style=plastic&logo=HTML5&logoColor=white&color=E34F26" /><br/>
@@ -37,7 +37,7 @@ https://github.com/anuraghazra/github-readme-stats
   <img align="center" src="https://img.shields.io/badge/git-%23F44336.svg?style=plastic&logo=Git&logoColor=white&color=F05032" /><br/>
   <img align="center" src="https://img.shields.io/badge/github-%23F44336.svg?style=plastic&logo=GitHub&logoColor=white&color=181717" /><br/>
   <img align="center" src="https://img.shields.io/badge/VSC-%23F44336.svg?style=plastic&logo=Visual%20Studio%20Code&logoColor=white&color=007ACC" /><br/>
-  <img align="center" src="https://img.shields.io/badge/chrome-%23F44336.svg?style=plastic&logo=Google%20Chrome&logoColor=white&color=4285F4" /><br/>
+  ![Chrome]<img align="center" src="https://img.shields.io/badge/chrome-%23F44336.svg?style=plastic&logo=Google%20Chrome&logoColor=white&color=4285F4" /><br/>
 </a>
 
 <a href="https://github.com/samuelhogg/samuelhogg/">
