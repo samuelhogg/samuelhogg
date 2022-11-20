@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔧 Technologies & Tools
 
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white&color=E34F26)
 ![CSS](https://img.shields.io/badge/css-%23563D7C.svg?style=for-the-badge&logo=CSS3&logoColor=white&color=1572B6)
@@ -26,8 +25,8 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/VSC-%23F44336.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&color=007ACC)
 ![Chrome](https://img.shields.io/badge/chrome-%23F44336.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=white&color=4285F4)
 
-## &#x1f4c8; GitHub Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelhogg)](https://github.com/samuelhogg/github-readme-stats)
 
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelhogg&theme=vision-friendly-dark&show_icons=true)
 
