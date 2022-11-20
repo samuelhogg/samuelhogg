@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
 <a href="https://github.com/samuelhogg/samuelhogg">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelhogg&langs_count=3&theme=vision-friendly-dark" alt="Top languanges" />
 </a>
