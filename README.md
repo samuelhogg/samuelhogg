@@ -22,6 +22,7 @@ https://github.com/anuraghazra/github-readme-stats
 ![JS](https://img.shields.io/badge/JS-%23E4405F.svg?style=plastic&logo=Javascript&logoColor=white&color=F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%230073CF.svg?style=plastic&logo=PHP&logoColor=white&color=777BB4)
 
+![GNU Bash](https://img.shields.io/static/v1?style=plastic&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=)
 ![Python](https://img.shields.io/static/v1?style=plastic&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
 
 ![Git](https://img.shields.io/badge/git-%23F44336.svg?style=plastic&logo=Git&logoColor=white&color=F05032)
