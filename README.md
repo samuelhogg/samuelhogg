@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://github.com/anuraghazra/github-readme-stats
 -->
 
 
@@ -29,3 +31,11 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelhogg&langs_count=5&theme=vision-friendly-dark&layout=compact)
 
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelhogg&theme=vision-friendly-dark&show_icons=true&count_private=true)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
