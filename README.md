@@ -26,13 +26,10 @@ Here are some ideas to get you started:
 ![Chrome](https://img.shields.io/badge/chrome-%23F44336.svg?style=for-the-badge&logo=Google%20Chrome&logoColor=white&color=4285F4)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelhogg&langs_count=3&theme=vision-friendly-dark)](https://github.com/samuelhogg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelhogg&langs_count=3&theme=vision-friendly-dark)
 
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelhogg&theme=vision-friendly-dark&show_icons=true)
 
-<a href="https://github.com/samuelhogg/samuelhogg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelhogg&langs_count=3&theme=vision-friendly-dark" alt="Top languanges" />
-</a>
 
 <a href="https://github.com/samuelhogg/samuelhogg">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelhogg&show_icons=true&line_height=27&count_private=true&theme=vision-friendly-dark" alt="GitHub Stats" />
