@@ -37,5 +37,5 @@ https://github.com/anuraghazra/github-readme-stats
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelhogg&langs_count=5&theme=vision-friendly-dark&layout=compact" />
 </a>
 <a href="https://github.com/samuelhogg/samuelhogg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelhogg&theme=vision-friendly-dark&show_icons=true&count_private=true&hide=prs,issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelhogg&theme=vision-friendly-dark&show_icons=true&count_private=true&hide=prs" />
 </a>
