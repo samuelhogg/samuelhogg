@@ -24,6 +24,7 @@ https://github.com/anuraghazra/github-readme-stats
 
 ![GNU Bash](https://img.shields.io/static/v1?style=plastic&message=GNU+Bash&color=4EAA25&logo=GNU+Bash&logoColor=FFFFFF&label=)
 ![Python](https://img.shields.io/static/v1?style=plastic&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
+![Go](https://img.shields.io/static/v1?style=plastic&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)
 
 ![Git](https://img.shields.io/badge/git-%23F44336.svg?style=plastic&logo=Git&logoColor=white&color=F05032)
 ![GitHub](https://img.shields.io/badge/github-%23F44336.svg?style=plastic&logo=GitHub&logoColor=white&color=181717)
