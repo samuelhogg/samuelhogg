@@ -27,6 +27,9 @@ https://github.com/anuraghazra/github-readme-stats
 ![Go](https://img.shields.io/static/v1?style=plastic&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)
 
 ![Kali Linux](https://img.shields.io/static/v1?style=plastic&message=Kali+Linux&color=557C94&logo=Kali+Linux&logoColor=FFFFFF&label=)
+![Docker](https://img.shields.io/static/v1?style=plastci&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+![Vagrant](https://img.shields.io/static/v1?style=plastic&message=Vagrant&color=1868F2&logo=Vagrant&logoColor=FFFFFF&label=)
+
 ![GitHub](https://img.shields.io/badge/github-%23F44336.svg?style=plastic&logo=GitHub&logoColor=white&color=181717)
 ![Visual Studio Code](https://img.shields.io/badge/VSC-%23F44336.svg?style=plastic&logo=Visual%20Studio%20Code&logoColor=white&color=007ACC)
 ![Chrome](https://img.shields.io/badge/chrome-%23F44336.svg?style=plastic&logo=Google%20Chrome&logoColor=white&color=4285F4)
