@@ -34,7 +34,10 @@ https://github.com/anuraghazra/github-readme-stats
   <img align="center" src="https://img.shields.io/badge/php-%230073CF.svg?style=plastic&logo=PHP&logoColor=white&color=777BB4" />
 </a>
 <a href="https://github.com/samuelhogg/samuelhogg/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelhogg&theme=vision-friendly-dark&show_icons=true&count_private=true&hide=prs" />
+  <img align="center" src="https://img.shields.io/badge/git-%23F44336.svg?style=plastic&logo=Git&logoColor=white&color=F05032" />
+  <img align="center" src="https://img.shields.io/badge/github-%23F44336.svg?style=plastic&logo=GitHub&logoColor=white&color=181717" />
+  <img align="center" src="https://img.shields.io/badge/VSC-%23F44336.svg?style=plastic&logo=Visual%20Studio%20Code&logoColor=white&color=007ACC" />
+  <img align="center" src="https://img.shields.io/badge/chrome-%23F44336.svg?style=plastic&logo=Google%20Chrome&logoColor=white&color=4285F4" />
 </a>
 
 <a href="https://github.com/samuelhogg/samuelhogg/">
