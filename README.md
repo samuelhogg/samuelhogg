@@ -34,6 +34,8 @@ https://github.com/anuraghazra/github-readme-stats
 ![Visual Studio Code](https://img.shields.io/badge/VSC-%23F44336.svg?style=plastic&logo=Visual%20Studio%20Code&logoColor=white&color=007ACC)
 ![Chrome](https://img.shields.io/badge/chrome-%23F44336.svg?style=plastic&logo=Google%20Chrome&logoColor=white&color=4285F4)
 
+![PHPNuke](/images/phpnuke.gif)
+
 <a href="https://github.com/samuelhogg/samuelhogg/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelhogg&theme=vision-friendly-dark&show_icons=true&count_private=true&hide=prs" />
 </a>
